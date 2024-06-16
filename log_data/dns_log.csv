@@ -1,0 +1,532 @@
+Timestamp,Queried Domain,Device IP,Source MAC,Destination IP,Destination MAC,Protocol,Packet Size,DNS Response Code,Category,Query Count
+2024-06-13 09:21:17,oth.eve.mdt.qq.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,78,N/A,Technology/Internet,1
+2024-06-13 09:21:17,oth.eve.mdt.qq.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,142,0,Technology/Internet,2
+2024-06-13 09:21:25,get.sogou.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,73,N/A,Search engine or internet services.,1
+2024-06-13 09:21:25,get.sogou.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,73,N/A,Search engine or internet services.,2
+2024-06-13 09:21:25,get.sogou.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,199,0,Search engine or internet services.,3
+2024-06-13 09:21:25,get.sogou.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,169,0,Search engine or internet services.,4
+2024-06-13 09:21:26,365.kdocs.cn,10.21.250.9,bc:6e:e2:e1:70:da,223.5.5.5,10:4f:58:6c:24:00,UDP,72,N/A,"This website likely falls under the category of """,1
+2024-06-13 09:21:31,365.kdocs.cn,223.5.5.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,104,0,"This website likely falls under the category of """,2
+2024-06-13 09:42:58,oth.eve.mdt.qq.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,78,N/A,Technology/Internet,1
+2024-06-13 09:42:58,oth.eve.mdt.qq.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,142,0,Technology/Internet,2
+2024-06-13 09:43:08,www.msftconnecttest.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Software/Internet,1
+2024-06-13 09:43:08,www.msftconnecttest.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Software/Internet,2
+2024-06-13 09:43:08,client.wns.windows.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,82,N/A,Technology/Computers,1
+2024-06-13 09:43:25,client.wns.windows.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,141,0,Technology/Computers,2
+2024-06-13 09:43:26,get.sogou.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,73,N/A,Search engine or internet services.,1
+2024-06-13 09:43:26,get.sogou.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,169,0,Search engine or internet services.,2
+2024-06-13 09:43:38,assets.msn.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,74,N/A,Technology/Internet,1
+2024-06-13 09:43:38,assets.msn.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,183,0,Technology/Internet,2
+2024-06-13 09:44:00,shuc-pc-hunt.ksord.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,82,N/A,Technology/Electronics,1
+2024-06-13 09:44:00,shuc-pc-hunt.ksord.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,210,0,Technology/Electronics,2
+2024-06-13 09:44:22,365.kdocs.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,72,N/A,It is difficult to determine the exact category without,1
+2024-06-13 09:44:22,365.kdocs.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,104,0,It is difficult to determine the exact category without,2
+2024-06-13 09:44:43,account.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,74,N/A,Technology/Software,1
+2024-06-13 09:45:04,dyn.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,70,N/A,Technology or software,1
+2024-06-13 09:45:04,account.wps.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,268,0,Technology/Software,2
+2024-06-13 09:45:25,avatar.qwps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,74,N/A,Technology or Entertainment.,1
+2024-06-13 09:45:25,dyn.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,86,0,Technology or software,2
+2024-06-13 09:45:25,avatar.qwps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,268,0,Technology or Entertainment.,2
+2024-06-13 09:45:46,dl.vas.wpscdn.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.6.6.6,00:0c:29:07:cb:ff,UDP,76,N/A,Technology/Internet,1
+2024-06-13 09:45:46,dl.vas.wpscdn.cn,223.6.6.6,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,253,0,Technology/Internet,2
+2024-06-13 09:50:44,docer-api.kdocs.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,78,N/A,Technology/Software Development,1
+2024-06-13 09:50:44,docer-api.kdocs.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,140,0,Technology/Software Development,2
+2024-06-13 09:50:44,docer.kdocs.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,74,N/A,It is difficult to accurately determine the category of,1
+2024-06-13 09:50:44,docer.kdocs.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,136,0,It is difficult to accurately determine the category of,2
+2024-06-13 09:50:45,docer.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,72,N/A,Technology or Software,1
+2024-06-13 09:50:45,docer.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,134,0,Technology or Software,2
+2024-06-13 09:51:06,drive.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.6.6.6,00:0c:29:07:cb:ff,UDP,72,N/A,Technology/Computers,1
+2024-06-13 09:51:06,drive.wps.cn,223.6.6.6,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,262,0,Technology/Computers,2
+2024-06-13 09:51:27,geo.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,70,N/A,Technology/Internet,1
+2024-06-13 09:51:27,geo.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,264,0,Technology/Internet,2
+2024-06-13 09:51:48,home.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.6.6.6,00:0c:29:07:cb:ff,UDP,71,N/A,Technology or software,1
+2024-06-13 09:51:48,home.wps.cn,223.6.6.6,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,166,0,Technology or software,2
+2024-06-13 09:52:10,iaas.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.6.6.6,00:0c:29:07:cb:ff,UDP,71,N/A,Technology/Cloud Computing,1
+2024-06-13 09:52:10,iaas.wps.cn,223.6.6.6,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,265,0,Technology/Cloud Computing,2
+2024-06-13 09:52:31,kdocs.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,68,N/A,It is difficult to determine the exact category without,1
+2024-06-13 09:52:31,kdocs.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,150,0,It is difficult to determine the exact category without,2
+2024-06-13 09:52:52,le.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,69,N/A,Technology/Software,1
+2024-06-13 09:52:52,le.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,131,0,Technology/Software,2
+2024-06-13 09:53:13,lucky.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,72,N/A,Technology/Software,1
+2024-06-13 09:53:13,lucky.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,134,0,Technology/Software,2
+2024-06-13 09:53:41,pay.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,70,N/A,Financial services or payment processing.,1
+2024-06-13 09:53:41,pay.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,114,0,Financial services or payment processing.,2
+2024-06-13 09:54:02,qing.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.6.6.6,00:0c:29:07:cb:ff,UDP,71,N/A,Technology/Software,1
+2024-06-13 09:54:02,qing.wps.cn,223.6.6.6,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,261,0,Technology/Software,2
+2024-06-13 09:54:23,qr.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.6.6.6,00:0c:29:07:cb:ff,UDP,69,N/A,Technology or Software,1
+2024-06-13 09:54:23,qr.wps.cn,223.6.6.6,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,263,0,Technology or Software,2
+2024-06-13 09:54:44,roaming.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,74,N/A,Technology/Internet,1
+2024-06-13 09:54:44,roaming.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,263,0,Technology/Internet,2
+2024-06-13 09:54:45,sms.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,70,N/A,Technology/Communication,1
+2024-06-13 09:54:45,sms.wps.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,264,0,Technology/Communication,2
+2024-06-13 09:55:06,vas.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.6.6.6,00:0c:29:07:cb:ff,UDP,70,N/A,Technology or Business,1
+2024-06-13 09:55:06,vas.wps.cn,223.6.6.6,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,264,0,Technology or Business,2
+2024-06-13 09:55:27,vasapi.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,73,N/A,It is difficult to determine the exact category without,1
+2024-06-13 09:55:27,vasapi.wps.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,156,0,It is difficult to determine the exact category without,2
+2024-06-13 09:55:48,vip.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,70,N/A,Technology/E-commerce,1
+2024-06-13 09:55:48,vip.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,132,0,Technology/E-commerce,2
+2024-06-13 09:56:10,vipapi.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,73,N/A,Technology/Software,1
+2024-06-13 09:56:10,vipapi.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,117,0,Technology/Software,2
+2024-06-13 09:56:31,wdl1.cache.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,77,N/A,Technology/Internet,1
+2024-06-13 09:56:31,wdl1.cache.wps.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,279,0,Technology/Internet,2
+2024-06-13 09:56:59,wdl1.file.cache.docer.com,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,85,N/A,Technology/Internet Services,1
+2024-06-13 09:56:59,wdl1.file.cache.docer.com,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,297,0,Technology/Internet Services,2
+2024-06-13 09:57:21,www.kdocs.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,72,N/A,"This website likely falls under the category of """,1
+2024-06-13 09:57:21,www.kdocs.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,154,0,"This website likely falls under the category of """,2
+2024-06-13 09:57:42,zj-roaming.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,77,N/A,Technology/Telecommunications,1
+2024-06-13 09:57:42,zj-roaming.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,139,0,Technology/Telecommunications,2
+2024-06-13 09:58:04,zt.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.6.6.6,00:0c:29:07:cb:ff,UDP,69,N/A,Technology or Software,1
+2024-06-13 09:58:04,zt.wps.cn,223.6.6.6,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,131,0,Technology or Software,2
+2024-06-13 09:58:04,zw-roaming.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,119.29.29.29,00:0c:29:07:cb:ff,UDP,77,N/A,It is difficult to determine the exact category of,1
+2024-06-13 09:58:04,zw-roaming.wps.cn,119.29.29.29,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,266,0,It is difficult to determine the exact category of,2
+2024-06-13 09:58:26,plus.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,71,N/A,Technology/Electronics,1
+2024-06-13 09:58:26,plus.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,164,0,Technology/Electronics,2
+2024-06-13 09:58:26,365.kdocs.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,72,N/A,It is difficult to determine the exact category without,3
+2024-06-13 09:58:26,365.kdocs.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,104,0,It is difficult to determine the exact category without,4
+2024-06-13 09:58:47,honeycomb.wpscdn.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,79,N/A,Technology or Web Design,1
+2024-06-13 09:58:47,honeycomb.wpscdn.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,182,0,Technology or Web Design,2
+2024-06-13 09:59:11,pc-plugin-plg.wpscdn.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Electronics,1
+2024-06-13 09:59:11,pc-plugin-plg.wpscdn.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,304,0,Technology/Electronics,2
+2024-06-13 09:59:36,tiance.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,73,N/A,Technology/Software,1
+2024-06-13 09:59:36,tiance.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,136,0,Technology/Software,2
+2024-06-13 09:59:36,vas.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,70,N/A,Technology or Business,3
+2024-06-13 09:59:36,vas.wps.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,264,0,Technology or Business,4
+2024-06-13 10:00:04,softbus.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,74,N/A,Technology/Software,1
+2024-06-13 10:00:04,softbus.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,121,0,Technology/Software,2
+2024-06-13 10:00:04,ic.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,69,N/A,Technology/Electronics,1
+2024-06-13 10:00:04,ic.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,85,0,Technology/Electronics,2
+2024-06-13 10:00:26,rili.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,71,N/A,Technology/Software,1
+2024-06-13 10:00:26,rili.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,133,0,Technology/Software,2
+2024-06-13 10:00:49,knobo.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,72,N/A,Error,1
+2024-06-13 10:00:50,knobo.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,172,0,It is difficult to determine the exact category without,2
+2024-06-13 10:00:50,knobo.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.4,00:0c:29:07:cb:ff,UDP,72,N/A,It is difficult to determine the exact category without,3
+2024-06-13 10:00:50,knobo.wps.cn,10.3.9.4,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,172,0,It is difficult to determine the exact category without,4
+2024-06-13 10:00:50,www.msftconnecttest.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Software/Internet,3
+2024-06-13 10:00:50,www.msftconnecttest.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Software/Internet,4
+2024-06-13 10:01:11,www.bing.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,72,N/A,Search engine,1
+2024-06-13 10:01:11,www.bing.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,228,0,Search engine,2
+2024-06-13 10:01:11,account.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,223.5.5.5,00:0c:29:07:cb:ff,UDP,74,N/A,Technology/Software,3
+2024-06-13 10:01:11,account.wps.cn,223.5.5.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,268,0,Technology/Software,4
+2024-06-13 10:01:32,fp-afd-nocache-ccp.azureedge.net,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,92,N/A,Technology/Internet,1
+2024-06-13 10:01:32,fp-afd-nocache-ccp.azureedge.net,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,365,0,Technology/Internet,2
+2024-06-13 10:01:54,arc-ring.msedge.net,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,79,N/A,Technology/Internet,1
+2024-06-13 10:01:54,arc-ring.msedge.net,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.4,00:0c:29:07:cb:ff,UDP,79,N/A,Technology/Internet,2
+2024-06-13 10:01:54,arc-ring.msedge.net,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,171,0,Technology/Internet,3
+2024-06-13 10:01:54,arc-ring.msedge.net,10.3.9.4,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,171,0,Technology/Internet,4
+2024-06-13 10:02:26,3d91f3552c9961ab39806619ed0f105c.clo.footprintdns.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,113,N/A,Error,1
+2024-06-13 10:02:27,3d91f3552c9961ab39806619ed0f105c.clo.footprintdns.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.4,00:0c:29:07:cb:ff,UDP,113,N/A,Technology/Internet,2
+2024-06-13 10:02:27,3d91f3552c9961ab39806619ed0f105c.clo.footprintdns.com,10.3.9.4,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,246,0,Technology/Internet,3
+2024-06-13 10:02:27,3d91f3552c9961ab39806619ed0f105c.clo.footprintdns.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,246,0,Technology/Internet,4
+2024-06-13 10:02:27,honeycomb.wpscdn.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,79,N/A,Technology or Web Design,3
+2024-06-13 10:02:27,honeycomb.wpscdn.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,182,0,Technology or Web Design,4
+2024-06-13 10:02:27,plussvr.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,74,N/A,Technology/Software/Online Services,1
+2024-06-13 10:02:27,plussvr.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,167,0,Technology/Software/Online Services,2
+2024-06-13 10:02:49,img.qwps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,71,N/A,Technology/Internet Services,1
+2024-06-13 10:02:49,img.qwps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,216,0,Technology/Internet Services,2
+2024-06-13 10:03:12,docer-api.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,76,N/A,Error,1
+2024-06-13 10:03:13,docer-api.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,138,0,Technology/Software Development,2
+2024-06-13 10:03:41,userinfo.docer.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,81,N/A,Technology/Software,1
+2024-06-13 10:03:41,userinfo.docer.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,143,0,Technology/Software,2
+2024-06-13 10:04:05,api.docer.wpscdn.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,79,N/A,Technology/Software Development,1
+2024-06-13 10:04:05,client-mall.docer.wps.cn,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,84,N/A,Online shopping or e-commerce.,1
+2024-06-13 10:04:05,api.docer.wpscdn.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,268,0,Technology/Software Development,2
+2024-06-13 10:04:05,client-mall.docer.wps.cn,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,146,0,Online shopping or e-commerce.,2
+2024-06-13 10:04:27,fp.msedge.net,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,73,N/A,Technology/Internet,1
+2024-06-13 10:04:27,fp.msedge.net,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Internet,2
+2024-06-13 10:04:50,www.baidu.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,73,N/A,Technology/Internet/Search Engine,1
+2024-06-13 10:04:50,www.baidu.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,135,0,Technology/Internet/Search Engine,2
+2024-06-13 10:05:12,odinvzc.azureedge.net,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,81,N/A,This website falls under the category of technology or,1
+2024-06-13 10:05:12,odinvzc.azureedge.net,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,166,0,This website falls under the category of technology or,2
+2024-06-13 10:05:33,config.pinyin.sogou.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Internet,1
+2024-06-13 10:05:33,config.pinyin.sogou.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,179,0,Technology/Internet,2
+2024-06-13 10:05:33,www.msftconnecttest.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Software/Internet,5
+2024-06-13 10:05:33,www.msftconnecttest.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Software/Internet,6
+2024-06-13 10:05:33,assets.msn.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,74,N/A,Technology/Internet,3
+2024-06-13 10:05:33,assets.msn.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,183,0,Technology/Internet,4
+2024-06-13 10:05:33,www.msftconnecttest.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Software/Internet,7
+2024-06-13 10:05:33,www.msftconnecttest.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Software/Internet,8
+2024-06-13 10:05:33,www.msftconnecttest.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Software/Internet,9
+2024-06-13 10:05:33,www.msftconnecttest.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Software/Internet,10
+2024-06-13 10:05:33,assets.msn.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,74,N/A,Technology/Internet,5
+2024-06-13 10:05:33,assets.msn.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,215,0,Technology/Internet,6
+2024-06-13 10:05:33,www.msftconnecttest.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.5,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Software/Internet,11
+2024-06-13 10:05:33,www.msftconnecttest.com,10.3.9.5,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Software/Internet,12
+2024-06-13 10:05:33,www.msftconnecttest.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.4,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Software/Internet,13
+2024-06-13 10:05:33,www.msftconnecttest.com,10.3.9.4,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Software/Internet,14
+2024-06-13 10:05:33,www.msftconnecttest.com,10.255.35.159,bc:6e:e2:e1:70:da,10.3.9.4,00:0c:29:07:cb:ff,UDP,83,N/A,Technology/Software/Internet,15
+2024-06-13 10:05:33,www.msftconnecttest.com,10.3.9.4,00:0c:29:07:cb:ff,10.255.35.159,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Software/Internet,16
+2024-06-13 10:05:33,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,17
+2024-06-13 10:05:33,www.msftconnecttest.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Software/Internet,18
+2024-06-13 10:05:33,client.wns.windows.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,82,N/A,Technology/Computers,3
+2024-06-13 10:05:33,client.wns.windows.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,141,0,Technology/Computers,4
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,1
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,2
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,3
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,4
+2024-06-13 10:05:54,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.6,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,19
+2024-06-13 10:05:54,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.6,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,20
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.6,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,5
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.6,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,6
+2024-06-13 10:05:54,www.msftconnecttest.com,10.3.9.6,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Software/Internet,21
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.3.9.6,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,7
+2024-06-13 10:05:54,www.msftconnecttest.com,10.3.9.6,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,22
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.3.9.6,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,8
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,9
+2024-06-13 10:05:54,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,23
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,10
+2024-06-13 10:05:54,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,24
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,11
+2024-06-13 10:05:54,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,12
+2024-06-13 10:05:54,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,25
+2024-06-13 10:05:54,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Software/Internet,26
+2024-06-13 10:06:16,ecs.office.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Technology/Software,1
+2024-06-13 10:06:16,ecs.office.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Technology/Software,2
+2024-06-13 10:06:16,ecs.office.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,317,0,Technology/Software,3
+2024-06-13 10:06:16,ecs.office.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,247,0,Technology/Software,4
+2024-06-13 10:06:16,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,13
+2024-06-13 10:06:16,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,14
+2024-06-13 10:06:16,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,27
+2024-06-13 10:06:16,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,28
+2024-06-13 10:06:16,ipv6.msftconnecttest.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,15
+2024-06-13 10:06:16,ipv6.msftconnecttest.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,16
+2024-06-13 10:06:16,www.msftconnecttest.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Software/Internet,29
+2024-06-13 10:06:16,www.msftconnecttest.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,30
+2024-06-13 10:06:37,dns.msftncsi.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,76,N/A,Technology/Internet Services,1
+2024-06-13 10:06:37,dns.msftncsi.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,92,0,Technology/Internet Services,2
+2024-06-13 10:06:37,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,17
+2024-06-13 10:06:37,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,31
+2024-06-13 10:06:37,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,18
+2024-06-13 10:06:37,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,32
+2024-06-13 10:07:09,continuum.dds.microsoft.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,87,N/A,Error,1
+2024-06-13 10:07:11,continuum.dds.microsoft.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,87,N/A,Technology/Software/Computers,2
+2024-06-13 10:07:11,continuum.dds.microsoft.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,146,0,Technology/Software/Computers,3
+2024-06-13 10:07:11,continuum.dds.microsoft.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,191,0,Technology/Software/Computers,4
+2024-06-13 10:07:12,login.wpscdn.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,75,N/A,Technology/Internet,1
+2024-06-13 10:07:12,login.wpscdn.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,75,N/A,Technology/Internet,2
+2024-06-13 10:07:34,IEPL01.catcat-123.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,81,N/A,It is difficult to determine the exact category without,1
+2024-06-13 10:07:34,login.wpscdn.cn,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,192,0,Technology/Internet,3
+2024-06-13 10:07:56,default.exp-tas.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,79,N/A,It is difficult to determine the exact category without,1
+2024-06-13 10:07:56,default.exp-tas.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,79,N/A,It is difficult to determine the exact category without,2
+2024-06-13 10:08:24,www.wps.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,70,N/A,Technology/Electronics,1
+2024-06-13 10:08:24,www.wps.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,70,N/A,Technology/Electronics,2
+2024-06-13 10:08:24,login.wpscdn.cn,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,205,0,Technology/Internet,4
+2024-06-13 10:08:24,IEPL01.catcat-123.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,120,0,It is difficult to determine the exact category without,2
+2024-06-13 10:08:24,default.exp-tas.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,217,0,It is difficult to determine the exact category without,3
+2024-06-13 10:08:24,www.wps.cn,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,199,0,Technology/Electronics,3
+2024-06-13 10:08:24,default.exp-tas.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,183,0,It is difficult to determine the exact category without,4
+2024-06-13 10:08:24,www.wps.cn,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,152,0,Technology/Electronics,4
+2024-06-13 10:08:24,365.kdocs.cn,10.21.250.9,bc:6e:e2:e1:70:da,119.29.29.29,10:4f:58:6c:24:00,UDP,72,N/A,It is difficult to determine the exact category without,5
+2024-06-13 10:08:24,365.kdocs.cn,119.29.29.29,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,104,0,It is difficult to determine the exact category without,6
+2024-06-13 10:08:24,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,19
+2024-06-13 10:08:24,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,33
+2024-06-13 10:08:24,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,34
+2024-06-13 10:08:24,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,20
+2024-06-13 10:08:24,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Software/Internet,35
+2024-06-13 10:08:24,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,21
+2024-06-13 10:08:24,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,36
+2024-06-13 10:08:24,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,22
+2024-06-13 10:08:24,shuc-pc-hunt.ksord.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,82,N/A,Technology/Electronics,3
+2024-06-13 10:08:24,shuc-pc-hunt.ksord.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,82,N/A,Technology/Electronics,4
+2024-06-13 10:08:24,shuc-pc-hunt.ksord.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,210,0,Technology/Electronics,5
+2024-06-13 10:08:24,shuc-pc-hunt.ksord.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,120,N/A,Technology/Electronics,6
+2024-06-13 10:08:24,softbus.wps.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Technology/Software,3
+2024-06-13 10:08:24,softbus.wps.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Technology/Software,4
+2024-06-13 10:08:24,softbus.wps.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,121,0,Technology/Software,5
+2024-06-13 10:08:24,softbus.wps.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,184,0,Technology/Software,6
+2024-06-13 10:08:24,sentry-woa.wpsit.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,79,N/A,Technology/E-commerce,1
+2024-06-13 10:08:24,sentry-woa.wpsit.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,95,0,Technology/E-commerce,2
+2024-06-13 10:08:46,settings-win.data.microsoft.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,91,N/A,Technology/Software,1
+2024-06-13 10:08:46,settings-win.data.microsoft.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,91,N/A,Technology/Software,2
+2024-06-13 10:08:46,settings-win.data.microsoft.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,225,0,Technology/Software,3
+2024-06-13 10:08:46,settings-win.data.microsoft.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,285,0,Technology/Software,4
+2024-06-13 10:09:08,open.u-tools.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,Technology/Software,1
+2024-06-13 10:09:08,open.u-tools.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,Technology/Software,2
+2024-06-13 10:09:08,open.u-tools.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,107,0,Technology/Software,3
+2024-06-13 10:09:08,open.u-tools.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,152,N/A,Technology/Software,4
+2024-06-13 10:09:29,services.gfe.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Computing,1
+2024-06-13 10:09:29,services.gfe.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Computing,2
+2024-06-13 10:09:29,services.gfe.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,181,0,Technology/Computing,3
+2024-06-13 10:09:29,services.gfe.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,231,0,Technology/Computing,4
+2024-06-13 10:09:29,www.baidu.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Technology/Internet/Search Engine,3
+2024-06-13 10:09:29,www.baidu.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Technology/Internet/Search Engine,4
+2024-06-13 10:09:29,www.baidu.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,135,0,Technology/Internet/Search Engine,5
+2024-06-13 10:09:29,www.baidu.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,103,0,Technology/Internet/Search Engine,6
+2024-06-13 10:09:51,events.gfe.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,81,N/A,Technology or Events/Conferences,1
+2024-06-13 10:09:51,events.gfe.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,81,N/A,Technology or Events/Conferences,2
+2024-06-13 10:09:51,events.gfe.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,97,0,Technology or Events/Conferences,3
+2024-06-13 10:09:51,events.gfe.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,155,N/A,Technology or Events/Conferences,4
+2024-06-13 10:10:13,lightstep.kaizen.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,87,N/A,Technology/Software/Hardware,1
+2024-06-13 10:10:13,lightstep.kaizen.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,87,N/A,Technology/Software/Hardware,2
+2024-06-13 10:10:13,lightstep.kaizen.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,215,0,Technology/Software/Hardware,3
+2024-06-13 10:10:13,lightstep.kaizen.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,174,N/A,Technology/Software/Hardware,4
+2024-06-13 10:10:13,events.gfe.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,81,N/A,Technology or Events/Conferences,5
+2024-06-13 10:10:13,events.gfe.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,155,N/A,Technology or Events/Conferences,6
+2024-06-13 10:10:34,nvidia.tt.omtrdc.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,80,N/A,Technology or Computer Hardware/Software,1
+2024-06-13 10:10:34,nvidia.tt.omtrdc.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,80,N/A,Technology or Computer Hardware/Software,2
+2024-06-13 10:10:34,nvidia.tt.omtrdc.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,170,0,Technology or Computer Hardware/Software,3
+2024-06-13 10:10:34,nvidia.tt.omtrdc.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,193,0,Technology or Computer Hardware/Software,4
+2024-06-13 10:10:34,lightstep.kaizen.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,87,N/A,Technology/Software/Hardware,5
+2024-06-13 10:10:34,lightstep.kaizen.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,174,N/A,Technology/Software/Hardware,6
+2024-06-13 10:11:03,accounts.nvgs.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Computers,1
+2024-06-13 10:11:03,accounts.nvgs.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Computers,2
+2024-06-13 10:11:03,accounts.nvgs.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,161,0,Technology/Computers,3
+2024-06-13 10:11:03,accounts.nvgs.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,197,0,Technology/Computers,4
+2024-06-13 10:11:04,gfwsl.geforce.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,77,N/A,Technology/Electronics,1
+2024-06-13 10:11:04,gfwsl.geforce.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,77,N/A,Technology/Electronics,2
+2024-06-13 10:11:04,gfwsl.geforce.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,219,0,Technology/Electronics,3
+2024-06-13 10:11:04,gfwsl.geforce.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,169,0,Technology/Electronics,4
+2024-06-13 10:11:25,api-prod.nvidia.comgeforce,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,86,N/A,Technology/Computers/Electronics,1
+2024-06-13 10:11:25,api-prod.nvidia.comgeforce,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,86,N/A,Technology/Computers/Electronics,2
+2024-06-13 10:11:25,api-prod.nvidia.comgeforce,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,161,N/A,Technology/Computers/Electronics,3
+2024-06-13 10:11:25,api-prod.nvidia.comgeforce,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,161,N/A,Technology/Computers/Electronics,4
+2024-06-13 10:11:25,events.gfe.nvidia.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,81,N/A,Technology or Events/Conferences,7
+2024-06-13 10:11:25,events.gfe.nvidia.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,155,N/A,Technology or Events/Conferences,8
+2024-06-13 10:11:47,shuc-js.ksord.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,77,N/A,It is not possible to accurately determine the category,1
+2024-06-13 10:11:47,shuc-js.ksord.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,109,0,It is not possible to accurately determine the category,2
+2024-06-13 10:11:47,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,23
+2024-06-13 10:11:47,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,37
+2024-06-13 10:11:47,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,24
+2024-06-13 10:11:47,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,38
+2024-06-13 10:11:47,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Software/Internet,39
+2024-06-13 10:11:47,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,25
+2024-06-13 10:11:47,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,26
+2024-06-13 10:11:47,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,40
+2024-06-13 10:11:47,www.bing.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,72,N/A,Search engine,3
+2024-06-13 10:11:47,www.bing.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,72,N/A,Search engine,4
+2024-06-13 10:11:47,www.bing.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,228,0,Search engine,5
+2024-06-13 10:11:47,www.bing.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,285,0,Search engine,6
+2024-06-13 10:12:09,browser.pipe.aria.microsoft.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,91,N/A,Technology/Internet,1
+2024-06-13 10:12:09,browser.pipe.aria.microsoft.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,91,N/A,Technology/Internet,2
+2024-06-13 10:12:09,browser.pipe.aria.microsoft.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,215,0,Technology/Internet,3
+2024-06-13 10:12:09,browser.pipe.aria.microsoft.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,276,0,Technology/Internet,4
+2024-06-13 10:12:31,95f12a7e5d347f2998ba835134bd2a9a.clo.footprintdns.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,113,N/A,The category for this website would likely be technology,1
+2024-06-13 10:12:31,95f12a7e5d347f2998ba835134bd2a9a.clo.footprintdns.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,113,N/A,The category for this website would likely be technology,2
+2024-06-13 10:12:31,95f12a7e5d347f2998ba835134bd2a9a.clo.footprintdns.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,113,N/A,The category for this website would likely be technology,3
+2024-06-13 10:12:31,95f12a7e5d347f2998ba835134bd2a9a.clo.footprintdns.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,113,N/A,The category for this website would likely be technology,4
+2024-06-13 10:12:31,95f12a7e5d347f2998ba835134bd2a9a.clo.footprintdns.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,271,3,The category for this website would likely be technology,5
+2024-06-13 10:12:31,95f12a7e5d347f2998ba835134bd2a9a.clo.footprintdns.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,271,3,The category for this website would likely be technology,6
+2024-06-13 10:12:31,95f12a7e5d347f2998ba835134bd2a9a.clo.footprintdns.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,271,3,The category for this website would likely be technology,7
+2024-06-13 10:12:31,95f12a7e5d347f2998ba835134bd2a9a.clo.footprintdns.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,271,3,The category for this website would likely be technology,8
+2024-06-13 10:12:31,get.sogou.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Search engine or internet services.,3
+2024-06-13 10:12:31,get.sogou.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Search engine or internet services.,4
+2024-06-13 10:12:31,get.sogou.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,169,0,Search engine or internet services.,5
+2024-06-13 10:12:31,get.sogou.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,199,0,Search engine or internet services.,6
+2024-06-13 10:12:31,www.bing.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,72,N/A,Search engine,7
+2024-06-13 10:12:31,www.bing.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,285,0,Search engine,8
+2024-06-13 10:12:52,arm-ring.msedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,79,N/A,Technology/Internet,1
+2024-06-13 10:12:52,arm-ring.msedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,79,N/A,Technology/Internet,2
+2024-06-13 10:12:52,arm-ring.msedge.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,155,0,Technology/Internet,3
+2024-06-13 10:12:52,arm-ring.msedge.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,167,0,Technology/Internet,4
+2024-06-13 10:12:52,www.bing.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,72,N/A,Search engine,9
+2024-06-13 10:12:52,www.bing.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,285,0,Search engine,10
+2024-06-13 10:13:13,dns.weixin.qq.com.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,80,N/A,Technology/Internet,1
+2024-06-13 10:13:13,dns.weixin.qq.com.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,80,N/A,Technology/Internet,2
+2024-06-13 10:13:13,dns.weixin.qq.com.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,176,0,Technology/Internet,3
+2024-06-13 10:13:13,dns.weixin.qq.com.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,108,0,Technology/Internet,4
+2024-06-13 10:13:35,szminorshort.weixin.qq.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,86,N/A,Technology/Internet,1
+2024-06-13 10:13:35,szminorshort.weixin.qq.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,86,N/A,Technology/Internet,2
+2024-06-13 10:13:35,szminorshort.weixin.qq.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,86,N/A,Technology/Internet,3
+2024-06-13 10:13:35,szminorshort.weixin.qq.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,182,0,Technology/Internet,4
+2024-06-13 10:13:57,wac-ring.msedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,79,N/A,Technology/Internet,1
+2024-06-13 10:13:57,wac-ring.msedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,79,N/A,Technology/Internet,2
+2024-06-13 10:13:57,wac-ring.msedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,79,N/A,Technology/Internet,3
+2024-06-13 10:13:57,wac-ring.msedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,79,N/A,Technology/Internet,4
+2024-06-13 10:13:57,wac-ring.msedge.net,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,195,0,Technology/Internet,5
+2024-06-13 10:13:57,wac-ring.msedge.net,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,171,0,Technology/Internet,6
+2024-06-13 10:13:57,wac-ring.msedge.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,195,0,Technology/Internet,7
+2024-06-13 10:13:57,wac-ring.msedge.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,171,0,Technology/Internet,8
+2024-06-13 10:13:57,fp.msedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Technology/Internet,3
+2024-06-13 10:13:57,fp.msedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Technology/Internet,4
+2024-06-13 10:13:57,fp.msedge.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,277,0,Technology/Internet,5
+2024-06-13 10:13:57,fp.msedge.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,233,0,Technology/Internet,6
+2024-06-13 10:13:57,IEPL01.catcat-123.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,81,N/A,It is difficult to determine the exact category without,3
+2024-06-13 10:13:57,IEPL01.catcat-123.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,113,0,It is difficult to determine the exact category without,4
+2024-06-13 10:13:57,odinvzc.azureedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,81,N/A,This website falls under the category of technology or,3
+2024-06-13 10:13:57,odinvzc.azureedge.net,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,81,N/A,This website falls under the category of technology or,4
+2024-06-13 10:13:57,odinvzc.azureedge.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,166,0,This website falls under the category of technology or,5
+2024-06-13 10:13:57,odinvzc.azureedge.net,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,178,0,This website falls under the category of technology or,6
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,1
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,2
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,352,0,"This website likely falls under the category of """,3
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,4
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,5
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,6
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,7
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,8
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,9
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,10
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,11
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,12
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,13
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,14
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,15
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,16
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,17
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,18
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,19
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,20
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,21
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,22
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,23
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,24
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,25
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,26
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,27
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,28
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,"This website likely falls under the category of """,29
+2024-06-13 10:14:19,shmmsns.qpic.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,96,0,"This website likely falls under the category of """,30
+2024-06-13 10:14:19,config.pinyin.sogou.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Internet,3
+2024-06-13 10:14:19,config.pinyin.sogou.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Internet,4
+2024-06-13 10:14:19,config.pinyin.sogou.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,209,0,Technology/Internet,5
+2024-06-13 10:14:19,config.pinyin.sogou.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,179,0,Technology/Internet,6
+2024-06-13 10:14:40,wx.qlogo.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,71,N/A,Technology/Internet,1
+2024-06-13 10:14:40,wx.qlogo.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,71,N/A,Technology/Internet,2
+2024-06-13 10:14:40,wx.qlogo.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Internet,3
+2024-06-13 10:14:40,wx.qlogo.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,89,0,Technology/Internet,4
+2024-06-13 10:14:40,www.baidu.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Technology/Internet/Search Engine,7
+2024-06-13 10:14:40,www.baidu.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,103,0,Technology/Internet/Search Engine,8
+2024-06-13 10:14:40,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,41
+2024-06-13 10:14:40,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,42
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,27
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,28
+2024-06-13 10:14:40,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,265,0,Technology/Software/Internet,43
+2024-06-13 10:14:40,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,44
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,29
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,30
+2024-06-13 10:14:40,open.u-tools.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,Technology/Software,5
+2024-06-13 10:14:40,open.u-tools.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,152,N/A,Technology/Software,6
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,31
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,32
+2024-06-13 10:14:40,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,45
+2024-06-13 10:14:40,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,46
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,33
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,34
+2024-06-13 10:14:40,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,265,0,Technology/Software/Internet,47
+2024-06-13 10:14:40,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,48
+2024-06-13 10:14:40,www.baidu.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Technology/Internet/Search Engine,9
+2024-06-13 10:14:40,www.baidu.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,103,0,Technology/Internet/Search Engine,10
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,35
+2024-06-13 10:14:40,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,49
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,36
+2024-06-13 10:14:40,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,50
+2024-06-13 10:14:40,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,265,0,Technology/Software/Internet,51
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,37
+2024-06-13 10:14:40,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,38
+2024-06-13 10:14:40,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,52
+2024-06-13 10:15:02,honeycomb-plugins.wpscdn.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,87,N/A,Technology/Software,1
+2024-06-13 10:15:02,honeycomb-plugins.wpscdn.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,87,N/A,Technology/Software,2
+2024-06-13 10:15:02,honeycomb-plugins.wpscdn.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,283,0,Technology/Software,3
+2024-06-13 10:15:02,honeycomb-plugins.wpscdn.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,285,0,Technology/Software,4
+2024-06-13 10:15:02,shuc-pc-hunt.ksord.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,82,N/A,Technology/Electronics,7
+2024-06-13 10:15:02,shuc-pc-hunt.ksord.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,82,N/A,Technology/Electronics,8
+2024-06-13 10:15:02,shuc-pc-hunt.ksord.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,120,N/A,Technology/Electronics,9
+2024-06-13 10:15:02,shuc-pc-hunt.ksord.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,210,0,Technology/Electronics,10
+2024-06-13 10:15:24,www.google-analytics.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Analytics,1
+2024-06-13 10:15:24,www.google-analytics.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Analytics,2
+2024-06-13 10:15:24,www.google-analytics.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,144,N/A,Technology/Internet/Analytics,3
+2024-06-13 10:15:24,www.google-analytics.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,100,0,Technology/Internet/Analytics,4
+2024-06-13 10:15:24,honeycomb-plugins.wpscdn.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,87,N/A,Technology/Software,5
+2024-06-13 10:15:24,honeycomb-plugins.wpscdn.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,283,0,Technology/Software,6
+2024-06-13 10:15:24,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,53
+2024-06-13 10:15:24,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,54
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,39
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,40
+2024-06-13 10:15:24,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,55
+2024-06-13 10:15:24,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Software/Internet,56
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,41
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,42
+2024-06-13 10:15:24,qingcenter.wps.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,77,N/A,Technology/Software,1
+2024-06-13 10:15:24,qingcenter.wps.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,77,N/A,Technology/Software,2
+2024-06-13 10:15:24,qingcenter.wps.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,156,N/A,Technology/Software,3
+2024-06-13 10:15:24,qingcenter.wps.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,156,N/A,Technology/Software,4
+2024-06-13 10:15:24,365.kdocs.cn,10.21.250.9,bc:6e:e2:e1:70:da,223.6.6.6,10:4f:58:6c:24:00,UDP,72,N/A,It is difficult to determine the exact category without,7
+2024-06-13 10:15:24,365.kdocs.cn,223.6.6.6,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,104,0,It is difficult to determine the exact category without,8
+2024-06-13 10:15:24,www.baidu.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Technology/Internet/Search Engine,11
+2024-06-13 10:15:24,www.baidu.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,103,0,Technology/Internet/Search Engine,12
+2024-06-13 10:15:24,honeycomb-plugins.wpscdn.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,87,N/A,Technology/Software,7
+2024-06-13 10:15:24,honeycomb-plugins.wpscdn.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,87,N/A,Technology/Software,8
+2024-06-13 10:15:24,honeycomb-plugins.wpscdn.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,285,0,Technology/Software,9
+2024-06-13 10:15:24,honeycomb-plugins.wpscdn.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,283,0,Technology/Software,10
+2024-06-13 10:15:24,shuc-js.ksord.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,77,N/A,It is not possible to accurately determine the category,3
+2024-06-13 10:15:24,shuc-js.ksord.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,109,0,It is not possible to accurately determine the category,4
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,43
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,44
+2024-06-13 10:15:24,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,57
+2024-06-13 10:15:24,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,58
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,45
+2024-06-13 10:15:24,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,59
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,46
+2024-06-13 10:15:24,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Software/Internet,60
+2024-06-13 10:15:24,assets.msn.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Technology/Internet,7
+2024-06-13 10:15:24,assets.msn.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Technology/Internet,8
+2024-06-13 10:15:24,assets.msn.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,226,0,Technology/Internet,9
+2024-06-13 10:15:24,assets.msn.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,183,0,Technology/Internet,10
+2024-06-13 10:15:24,shuc-pc-hunt.ksord.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,82,N/A,Technology/Electronics,11
+2024-06-13 10:15:24,shuc-pc-hunt.ksord.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,120,N/A,Technology/Electronics,12
+2024-06-13 10:15:24,www.baidu.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Technology/Internet/Search Engine,13
+2024-06-13 10:15:24,www.baidu.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Technology/Internet/Search Engine,14
+2024-06-13 10:15:24,www.baidu.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,135,0,Technology/Internet/Search Engine,15
+2024-06-13 10:15:24,www.baidu.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,103,0,Technology/Internet/Search Engine,16
+2024-06-13 10:15:24,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,61
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,47
+2024-06-13 10:15:24,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,62
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,48
+2024-06-13 10:15:24,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Software/Internet,63
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,49
+2024-06-13 10:15:24,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,64
+2024-06-13 10:15:24,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,50
+2024-06-13 10:15:46,fe2cr.update.microsoft.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,86,N/A,Technology/Software Updates,1
+2024-06-13 10:15:46,fe2cr.update.microsoft.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,86,N/A,Technology/Software Updates,2
+2024-06-13 10:15:46,fe2cr.update.microsoft.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,144,N/A,Technology/Software Updates,3
+2024-06-13 10:15:46,fe2cr.update.microsoft.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,160,0,Technology/Software Updates,4
+2024-06-13 10:15:46,wx.qlogo.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,71,N/A,Technology/Internet,5
+2024-06-13 10:15:46,wx.qlogo.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,71,N/A,Technology/Internet,6
+2024-06-13 10:15:46,wx.qlogo.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Internet,7
+2024-06-13 10:15:46,wx.qlogo.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,89,0,Technology/Internet,8
+2024-06-13 10:16:08,vweixinf.tc.qq.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,78,N/A,Technology/Internet,1
+2024-06-13 10:16:08,vweixinf.tc.qq.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,78,N/A,Technology/Internet,2
+2024-06-13 10:16:08,vweixinf.tc.qq.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,183,0,Technology/Internet,3
+2024-06-13 10:16:08,vweixinf.tc.qq.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,407,0,Technology/Internet,4
+2024-06-13 10:16:08,wx.qlogo.cn,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,71,N/A,Technology/Internet,9
+2024-06-13 10:16:08,config.pinyin.sogou.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Internet,7
+2024-06-13 10:16:08,config.pinyin.sogou.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Internet,8
+2024-06-13 10:16:08,wx.qlogo.cn,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,89,0,Technology/Internet,10
+2024-06-13 10:16:08,config.pinyin.sogou.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,179,0,Technology/Internet,9
+2024-06-13 10:16:08,config.pinyin.sogou.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,209,0,Technology/Internet,10
+2024-06-13 10:16:08,assets.msn.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Technology/Internet,11
+2024-06-13 10:16:08,assets.msn.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Technology/Internet,12
+2024-06-13 10:16:08,assets.msn.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,226,0,Technology/Internet,13
+2024-06-13 10:16:08,assets.msn.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,295,0,Technology/Internet,14
+2024-06-13 10:16:29,IEPL00.catcat-123.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,81,N/A,Technology or Internet,1
+2024-06-13 10:16:29,IEPL00.catcat-123.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,113,0,Technology or Internet,2
+2024-06-13 10:16:29,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,65
+2024-06-13 10:16:29,www.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,83,N/A,Technology/Software/Internet,66
+2024-06-13 10:16:29,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,51
+2024-06-13 10:16:29,ipv6.msftconnecttest.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Technology/Internet/Networking,52
+2024-06-13 10:16:29,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,249,0,Technology/Software/Internet,67
+2024-06-13 10:16:29,www.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,273,0,Technology/Software/Internet,68
+2024-06-13 10:16:29,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,288,0,Technology/Internet/Networking,53
+2024-06-13 10:16:29,ipv6.msftconnecttest.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,270,0,Technology/Internet/Networking,54
+2024-06-13 16:55:15,assets.msn.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Error,1
+2024-06-13 16:55:15,assets.msn.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,226,0,Error,2
+2024-06-13 16:55:17,api.openai.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Error,1
+2024-06-13 16:55:17,api.openai.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,74,N/A,Error,2
+2024-06-13 16:55:17,api.openai.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,90,0,Error,3
+2024-06-13 16:55:18,IEPL00.catcat-123.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,81,N/A,Error,1
+2024-06-13 16:55:18,api.openai.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,90,0,Error,4
+2024-06-13 16:55:18,IEPL00.catcat-123.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,81,N/A,Error,2
+2024-06-13 16:55:19,IEPL00.catcat-123.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,113,0,Error,3
+2024-06-13 16:55:19,IEPL00.catcat-123.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,113,0,Error,4
+2024-06-13 16:55:20,functional.events.data.microsoft.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,96,N/A,Error,1
+2024-06-13 16:55:26,functional.events.data.microsoft.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,231,0,Error,2
+2024-06-13 16:55:26,cdn.segment.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,75,N/A,Error,1
+2024-06-13 16:55:27,cdn.segment.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.5,10:4f:58:6c:24:00,UDP,75,N/A,Error,2
+2024-06-13 16:55:27,cdn.segment.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,134,0,Error,3
+2024-06-13 16:55:27,api.segment.io,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,74,N/A,Error,1
+2024-06-13 16:55:28,api.segment.io,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,122,0,Error,2
+2024-06-13 16:55:28,cdn.segment.com,10.3.9.5,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,134,0,Error,4
+2024-06-13 16:55:29,api.vc.bilibili.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,79,N/A,Error,1
+2024-06-13 16:55:51,api.vc.bilibili.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,333,0,Error,2
+2024-06-13 16:55:51,tpstelemetry.tencent.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,84,N/A,Error,1
+2024-06-13 16:55:53,tpstelemetry.tencent.com,10.3.9.4,10:4f:58:6c:24:00,10.21.250.9,bc:6e:e2:e1:70:da,UDP,84,N/A,Error,2
+2024-06-13 16:55:53,www.baidu.com,10.21.250.9,bc:6e:e2:e1:70:da,10.3.9.4,10:4f:58:6c:24:00,UDP,73,N/A,Error,1

@@ -1,0 +1,6 @@
+matplotlib==3.7.2
+openai==0.28.0
+pandas==2.2.2
+plotly==5.22.0
+scapy==2.5.0
+streamlit==1.31.0
