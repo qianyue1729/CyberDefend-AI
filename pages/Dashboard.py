@@ -32,7 +32,7 @@ def app():
 
     # Line Chart
     now = datetime.now()
-    one_day_ago = now - timedelta(hours=24)
+    one_day_ago = now - timedelta(hours=100)
     df_last_24_hours = df[df.index > one_day_ago]
     df_resampled = df_last_24_hours[df_last_24_hours['status'].isin(
         ['ALLOW', 'ALERT'])].resample('5Min').count()
